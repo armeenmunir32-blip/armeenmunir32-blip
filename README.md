@@ -21,3 +21,34 @@
 <img src="https://komarev.com/ghpvc/?username=armeenmunir32-blip&style=for-the-badge&color=6C5CE7&labelColor=0B0B14&label=Profile+Views" alt="Profile views"/>
 
 </div>
+<div align="center">
+
+## About Me
+
+</div>
+
+<table width="100%">
+<tr>
+<td width="100%" style="padding: 24px;">
+
+**Who I Am**
+I'm Armeen Munir, a BS Artificial Intelligence student at UET Lahore, working at the intersection of AI, machine learning, and software engineering. I'm early in my journey and focused on building a genuine foundation before chasing breadth.
+
+<br/>
+
+**Currently Learning**
+Machine learning fundamentals, neural networks, and web development — layering practical software skills on top of core AI theory.
+
+<br/>
+
+**Goals**
+To grow from student to builder: shipping real projects, contributing to open source, and developing the engineering discipline behind good AI systems, not just the theory.
+
+<br/>
+
+**AI Interests**
+Artificial Intelligence, Machine Learning, Neural Networks, and the broader problem-solving mindset that connects AI to well-engineered software.
+
+</td>
+</tr>
+</table>
