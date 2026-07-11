@@ -164,8 +164,8 @@ A full-stack portfolio, blog, and affiliate showcase built from scratch with HTM
 
 </div>
 
-<!-- Description placeholder — replace with your actual project summary once the repo's README is finalized -->
-`[ "A Python data analysis project exploring Amazon sales data — covering monthly trend analysis, dead stock detection, Pareto (80/20) analysis, and sales forecasting using Linear Regression." ]`
+<!-- Description placeholder replace with your actual project summary once the repo's README is finalized -->
+`[A Python data analysis project exploring Amazon sales data covering monthly trend analysis dead stock detection Pareto (80/20) analysis and sales forecasting using Linear Regression.]`
 
 <div align="center">
 
