@@ -229,6 +229,9 @@ A full stack portfolio blog and affiliate showcase built from scratch with HTML,
 
 <td width="50%" valign="top">
 
+<br/>
+
+<div align="center">
 ### 📈 Learning Progress
 
 🟣 Programming Fundamentals ▰▰▰▰▰▰▰▱▱▱ 70%
