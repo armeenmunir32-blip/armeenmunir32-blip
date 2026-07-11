@@ -63,44 +63,6 @@ Location: Pakistan 🇵🇰
 
 <td width="50%" valign="top">
 
-### 🚀 Currently
-
-🧠 Learning Machine Learning
-
-📚 Exploring Neural Networks
-
-💻 Building Web Applications
-
-⚡ Improving DSA & Problem Solving
-
-🎯 Growing my AI Portfolio
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<div align="center">
-
-### 💜 Interests
-
-<img src="https://img.shields.io/badge/Artificial%20Intelligence-7C3AED?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/Machine%20Learning-4F46E5?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Neural%20Networks-8B5CF6?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Web%20Development-2563EB?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Problem%20Solving-06B6D4?style=for-the-badge"/>
-
-<br/><br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=armeenmunir32-blip&theme=tokyonight" width="95%"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
 > ### 💭 *"Learning today, building tomorrow, and creating AI solutions that make an impact."*
 
 </div>
