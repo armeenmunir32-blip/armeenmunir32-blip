@@ -278,19 +278,15 @@ A full stack portfolio blog and affiliate showcase built from scratch with HTML,
 
 ## Trophies
 
-<br/>
+<div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=armeenmunir32-blip&theme=algolia&no-frame=true&no-bg=true&margin-w=10&row=1&column=6"/>
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:7C3AED,50:4F46E5,100:38BDF8&height=70&section=header&text=✦%20ACHIEVEMENTS%20✦&fontSize=28&fontColor=ffffff&animation=twinkling"/>
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=armeenmunir32-blip&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15&row=2&column=4"/>
 
 </div>
-
-<br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=2&section=header"/>
-
-<br/>
-
-<div align="center">
 
 ## Contribution Graph
 
