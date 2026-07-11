@@ -30,12 +30,6 @@
 
 <div align="center">
 
-## About Me
-
-<br/>
-
-<div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:7C3AED,50:4F46E5,100:38BDF8&height=70&section=header&text=✦%20ABOUT%20ME%20✦&fontSize=28&fontColor=ffffff&animation=twinkling"/>
 
 </div>
@@ -46,26 +40,21 @@
 <tr>
 <td width="50%" valign="top">
 
-### 🌸 About Me
-
 ```yaml
 Name: Armeen Munir
 Degree: BS Artificial Intelligence
 University: UET Lahore
-Location: Pakistan 🇵🇰
+Location: Pakistan
 ```
 
-✨ Passionate about building intelligent solutions that combine **Artificial Intelligence**, **Machine Learning**, and **Modern Web Development**.
+Passionate about building intelligent solutions that combine **Artificial Intelligence**, **Machine Learning**, and **modern web development**.
 
-💜 I enjoy turning ideas into clean, interactive, and user-friendly applications while continuously improving my programming and problem-solving skills.
+I enjoy turning ideas into clean, interactive applications while continuously improving my programming and problem-solving skills.
 
 </td>
-
 <td width="50%" valign="top">
 
-> ### 💭 *"Learning today, building tomorrow, and creating AI solutions that make an impact."*
-
-</div>
+> *"Learning today, building tomorrow, and creating AI solutions that make an impact."*
 
 <br/>
 
@@ -136,7 +125,7 @@ Location: Pakistan 🇵🇰
 
 </div>
 
-A full stack portfolio blog and affiliate showcase built from scratch with HTML, CSS, and JavaScript  featuring a custom AI chatbot an animated skills radar chart and a dark minimal UI.
+A full-stack portfolio, blog, and affiliate showcase built from scratch with HTML, CSS, and JavaScript — featuring a custom AI chatbot, an animated skills radar chart, and a dark, minimal UI.
 
 <div align="center">
 
@@ -164,8 +153,7 @@ A full stack portfolio blog and affiliate showcase built from scratch with HTML,
 
 </div>
 
-<!-- Description placeholder replace with your actual project summary once the repo's README is finalized -->
-`A Python data analysis project exploring Amazon sales data covering monthly trend analysis dead stock detection Pareto (80/20) analysis and sales forecasting using Linear Regression.`
+A Python data analysis project exploring Amazon sales data — covering monthly trend analysis, dead stock detection, Pareto (80/20) analysis, and sales forecasting using Linear Regression.
 
 <div align="center">
 
@@ -176,6 +164,8 @@ A full stack portfolio blog and affiliate showcase built from scratch with HTML,
 <br/><br/>
 
 <img src="https://img.shields.io/badge/Python-0B0B1A?style=flat-square&logo=python&logoColor=A78BFA" alt="Python"/>
+<img src="https://img.shields.io/badge/Pandas-0B0B1A?style=flat-square&logo=pandas&logoColor=A78BFA" alt="Pandas"/>
+<img src="https://img.shields.io/badge/scikit--learn-0B0B1A?style=flat-square&logo=scikitlearn&logoColor=A78BFA" alt="scikit-learn"/>
 
 </div>
 
@@ -191,18 +181,12 @@ A full stack portfolio blog and affiliate showcase built from scratch with HTML,
 
 <div align="center">
 
-## Learning Journey
-<br/>
-
-<div align="center">
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rounded&color=0:7C3AED,50:4F46E5,100:38BDF8&height=70&section=header&text=✦%20LEARNING%20JOURNEY%20✦&fontSize=28&fontColor=ffffff&animation=twinkling"/>
 
 <br/>
 
-<img src="https://img.shields.io/badge/🎓%20University-UET%20Lahore-7C3AED?style=for-the-badge&labelColor=0B0B1A"/>
-
-<img src="https://img.shields.io/badge/🤖%20Degree-BS%20Artificial%20Intelligence-4F46E5?style=for-the-badge&labelColor=0B0B1A"/>
+<img src="https://img.shields.io/badge/University-UET%20Lahore-7C3AED?style=for-the-badge&labelColor=0B0B1A"/>
+<img src="https://img.shields.io/badge/Degree-BS%20Artificial%20Intelligence-4F46E5?style=for-the-badge&labelColor=0B0B1A"/>
 
 </div>
 
@@ -210,63 +194,65 @@ A full stack portfolio blog and affiliate showcase built from scratch with HTML,
 
 <table align="center">
 <tr>
-
 <td width="50%" valign="top">
 
-## 🌱 Foundation
-
-🐍 Python Programming
-
-⚙️ C++ Programming
-
-📚 Data Structures & Algorithms
-
-🧩 Problem Solving
-
-💻 Git & GitHub
+**Foundation**
+- Python Programming
+- C++ Programming
+- Data Structures & Algorithms
+- Problem Solving
+- Git & GitHub
 
 </td>
-
 <td width="50%" valign="top">
 
-<br/>
+**Learning Progress**
+
+`Programming Fundamentals` ▰▰▰▰▰▰▰▱▱▱ 70%
+`Web Development` ▰▰▰▰▰▰▱▱▱▱ 60%
+`Machine Learning` ▰▰▰▰▱▱▱▱▱▱ 40%
+`Artificial Intelligence` ▰▰▰▱▱▱▱▱▱▱ 30%
+
+</td>
+</tr>
+</table>
 
 <div align="center">
-### 📈 Learning Progress
 
-🟣 Programming Fundamentals ▰▰▰▰▰▰▰▱▱▱ 70%
+<br/>
 
-🔵 Web Development ▰▰▰▰▰▰▱▱▱▱ 60%
-
-🟣 Machine Learning ▰▰▰▰▱▱▱▱▱▱ 40%
-
-🔵 Artificial Intelligence ▰▰▰▱▱▱▱▱▱▱ 30%
+> *"Every line of code I write today is a step toward building intelligent solutions tomorrow."*
 
 </div>
 
 <br/>
 
-<div align="center">
-
-> ✨ **"Every line of code I write today is a step toward building intelligent solutions tomorrow."**
-
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=2&section=header"/>
 
 <br/>
 
-
-## GitHub Stats
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:7C3AED,50:4F46E5,100:38BDF8&height=70&section=header&text=✦%20GITHUB%20ANALYTICS%20✦&fontSize=28&fontColor=ffffff&animation=twinkling"/>
 
-<br/><br/>
+</div>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=armeenmunir32-blip&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&include_all_commits=true&count_private=true&rank_icon=github"/>
+<br/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=armeenmunir32-blip&layout=compact&theme=tokyonight&hide_border=true&border_radius=15&langs_count=8"/>
+<table align="center">
+<tr>
+<td align="center" width="50%">
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=armeenmunir32-blip&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&include_all_commits=true&count_private=true&rank_icon=github"/>
+</td>
+<td align="center" width="50%">
+<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=armeenmunir32-blip&layout=compact&theme=tokyonight&hide_border=true&border_radius=15&langs_count=8"/>
+</td>
+</tr>
+</table>
 
-<br/><br/>
+<div align="center">
+
+<br/>
 
 <img width="70%" src="https://streak-stats.demolab.com?user=armeenmunir32-blip&theme=tokyonight&hide_border=true&border_radius=15"/>
 
@@ -276,7 +262,11 @@ A full stack portfolio blog and affiliate showcase built from scratch with HTML,
 
 </div>
 
-## Trophies
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=2&section=header"/>
+
+<br/>
 
 <div align="center">
 
@@ -287,6 +277,14 @@ A full stack portfolio blog and affiliate showcase built from scratch with HTML,
 <img src="https://github-profile-trophy.vercel.app/?username=armeenmunir32-blip&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15&row=2&column=4"/>
 
 </div>
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=2&section=header"/>
+
+<br/>
+
+<div align="center">
 
 ## Contribution Graph
 
