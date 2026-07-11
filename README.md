@@ -136,7 +136,7 @@ Location: Pakistan 🇵🇰
 
 </div>
 
-A full-stack portfolio, blog, and affiliate showcase built from scratch with HTML, CSS, and JavaScript — featuring a custom AI chatbot, an animated skills radar chart, and a dark, minimal UI.
+A full stack portfolio blog and affiliate showcase built from scratch with HTML, CSS, and JavaScript  featuring a custom AI chatbot an animated skills radar chart and a dark minimal UI.
 
 <div align="center">
 
@@ -165,7 +165,7 @@ A full-stack portfolio, blog, and affiliate showcase built from scratch with HTM
 </div>
 
 <!-- Description placeholder replace with your actual project summary once the repo's README is finalized -->
-`[A Python data analysis project exploring Amazon sales data covering monthly trend analysis dead stock detection Pareto (80/20) analysis and sales forecasting using Linear Regression.]`
+`A Python data analysis project exploring Amazon sales data covering monthly trend analysis dead stock detection Pareto (80/20) analysis and sales forecasting using Linear Regression.`
 
 <div align="center">
 
