@@ -192,28 +192,65 @@ A full stack portfolio blog and affiliate showcase built from scratch with HTML,
 <div align="center">
 
 ## Learning Journey
+<br/>
 
-</div>
+<div align="center">
 
-```
-UET Lahore — BS Artificial Intelligence
-      │
-      ├── Foundations   →  Python · C++ · Data Structures & Algorithms
-      │
-      ├── Web            →  HTML5 · CSS3 · JavaScript
-      │
-      ├── Certification  →  Google AI Essentials
-      │
-      └── In Progress    →  Machine Learning · Neural Networks
-```
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rounded&color=0:7C3AED,50:4F46E5,100:38BDF8&height=70&section=header&text=✦%20LEARNING%20JOURNEY%20✦&fontSize=28&fontColor=ffffff&animation=twinkling"/>
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=2&section=header"/>
+<img src="https://img.shields.io/badge/🎓%20University-UET%20Lahore-7C3AED?style=for-the-badge&labelColor=0B0B1A"/>
+
+<img src="https://img.shields.io/badge/🤖%20Degree-BS%20Artificial%20Intelligence-4F46E5?style=for-the-badge&labelColor=0B0B1A"/>
+
+</div>
+
+<br/>
+
+<table align="center">
+<tr>
+
+<td width="50%" valign="top">
+
+## 🌱 Foundation
+
+🐍 Python Programming
+
+⚙️ C++ Programming
+
+📚 Data Structures & Algorithms
+
+🧩 Problem Solving
+
+💻 Git & GitHub
+
+</td>
+
+<td width="50%" valign="top">
+
+### 📈 Learning Progress
+
+🟣 Programming Fundamentals ▰▰▰▰▰▰▰▱▱▱ 70%
+
+🔵 Web Development ▰▰▰▰▰▰▱▱▱▱ 60%
+
+🟣 Machine Learning ▰▰▰▰▱▱▱▱▱▱ 40%
+
+🔵 Artificial Intelligence ▰▰▰▱▱▱▱▱▱▱ 30%
+
+</div>
 
 <br/>
 
 <div align="center">
+
+> ✨ **"Every line of code I write today is a step toward building intelligent solutions tomorrow."**
+
+</div>
+
+<br/>
+
 
 ## GitHub Stats
 
