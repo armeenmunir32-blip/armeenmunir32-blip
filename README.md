@@ -101,36 +101,72 @@ Location: Pakistan 🇵🇰
 
 <div align="center">
 
-> ### 💭 *"Learning today, building tomorrow, and creating AI solutions that make an impact."*
+
+<div align="center">
+
+## ✦ Beyond the Code ✦
 
 </div>
 
-<br/>
+<table>
+<tr>
 
-**Currently Learning**
-Machine learning fundamentals, neural networks, and web development — layering practical software skills on top of core AI theory.
+<td width="50%" valign="top">
 
-<br/>
+### 🌌 Vision
 
-**Goals**
-To grow from student to builder: shipping real projects, contributing to open source, and developing the engineering discipline behind good AI systems, not just the theory.
+I believe Artificial Intelligence is more than algorithms—it's about designing technology that solves real-world problems and creates meaningful experiences.
 
-<br/>
-
-**AI Interests**
-Artificial Intelligence, Machine Learning, Neural Networks, and the broader problem-solving mindset that connects AI to well-engineered software.
+Every project I build is another step toward becoming an AI engineer who values clean code, thoughtful design, and continuous learning.
 
 </td>
+
+<td width="50%" valign="top">
+
+### 🚀 Currently Exploring
+
+🧠 Machine Learning Foundations
+
+⚡ Neural Networks
+
+💻 Full-Stack Web Development
+
+📊 Data Structures & Algorithms
+
+🤖 AI-powered Applications
+
+</td>
+
 </tr>
 </table>
 
-<br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=2&section=header"/>
-
-<br/>
+<br>
 
 <div align="center">
+
+### 🎯 Mission
+
+> **Transforming curiosity into intelligent solutions through continuous learning, creative thinking, and practical software engineering.**
+
+</div>
+
+<br>
+
+<div align="center">
+
+### 💜 Focus Areas
+
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-7C3AED?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Machine%20Learning-4F46E5?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Neural%20Networks-8B5CF6?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Web%20Development-2563EB?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Problem%20Solving-06B6D4?style=for-the-badge"/>
+
+</div>
 
 ## Tech Stack
 
