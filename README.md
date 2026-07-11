@@ -256,29 +256,25 @@ A full stack portfolio blog and affiliate showcase built from scratch with HTML,
 
 
 ## GitHub Stats
+<div align="center">
 
-<br/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=armeenmunir32-blip&show_icons=true&theme=transparent&hide_border=true&title_color=A78BFA&icon_color=7C3AED&text_color=E8E6FF&count_private=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=armeenmunir32-blip&layout=compact&theme=transparent&hide_border=true&title_color=A78BFA&text_color=E8E6FF&langs_count=8"/>
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:7C3AED,50:4F46E5,100:38BDF8&height=70&section=header&text=✦%20GITHUB%20ANALYTICS%20✦&fontSize=28&fontColor=ffffff&animation=twinkling"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com/?user=armeenmunir32-blip&theme=transparent&hide_border=true&ring=7C3AED&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=E8E6FF&currStreakNum=E8E6FF&sideNums=E8E6FF&dates=8A85B3"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=armeenmunir32-blip&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&include_all_commits=true&count_private=true&rank_icon=github"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=armeenmunir32-blip&layout=compact&theme=tokyonight&hide_border=true&border_radius=15&langs_count=8"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=armeenmunir32-blip&theme=minimal&bg_color=00000000&color=A78BFA&line=7C3AED&point=E8E6FF&hide_border=true"/>
+<img width="70%" src="https://streak-stats.demolab.com?user=armeenmunir32-blip&theme=tokyonight&hide_border=true&border_radius=15"/>
+
+<br/><br/>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=armeenmunir32-blip&theme=tokyo-night&hide_border=true&radius=16"/>
 
 </div>
-
-<br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=2&section=header"/>
-
-<br/>
-
-<div align="center">
 
 ## Trophies
 
