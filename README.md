@@ -32,25 +32,80 @@
 
 ## About Me
 
+<br/>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:7C3AED,50:4F46E5,100:38BDF8&height=70&section=header&text=✦%20ABOUT%20ME%20✦&fontSize=28&fontColor=ffffff&animation=twinkling"/>
+
 </div>
 
-<table width="100%">
+<br/>
+
+<table align="center">
 <tr>
 <td width="50%" valign="top">
+
+### 🌸 About Me
 
 ```yaml
 Name: Armeen Munir
 Degree: BS Artificial Intelligence
 University: UET Lahore
-Location: Pakistan
+Location: Pakistan 🇵🇰
 ```
 
-Passionate about building intelligent solutions that combine **Artificial Intelligence**, **Machine Learning**, and **modern web development**.
+✨ Passionate about building intelligent solutions that combine **Artificial Intelligence**, **Machine Learning**, and **Modern Web Development**.
 
-I enjoy turning ideas into clean, interactive applications while continuously improving my programming and problem-solving skills.
+💜 I enjoy turning ideas into clean, interactive, and user-friendly applications while continuously improving my programming and problem-solving skills.
 
 </td>
+
 <td width="50%" valign="top">
+
+### 🚀 Currently
+
+🧠 Learning Machine Learning
+
+📚 Exploring Neural Networks
+
+💻 Building Web Applications
+
+⚡ Improving DSA & Problem Solving
+
+🎯 Growing my AI Portfolio
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
+
+### 💜 Interests
+
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-7C3AED?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-4F46E5?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Neural%20Networks-8B5CF6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Web%20Development-2563EB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Problem%20Solving-06B6D4?style=for-the-badge"/>
+
+<br/><br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=armeenmunir32-blip&theme=tokyonight" width="95%"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+> ### 💭 *"Learning today, building tomorrow, and creating AI solutions that make an impact."*
+
+</div>
+
+<br/>
 
 **Currently**
 - Learning Machine Learning
