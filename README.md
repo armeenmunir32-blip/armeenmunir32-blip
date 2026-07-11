@@ -32,60 +32,42 @@
 
 ## About Me
 
-<br/>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:7C3AED,50:4F46E5,100:38BDF8&height=70&section=header&text=✦%20ABOUT%20ME%20✦&fontSize=28&fontColor=ffffff&animation=twinkling"/>
-
 </div>
 
-<br/>
-
-<table align="center">
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
-
-### 🌸 About Me
 
 ```yaml
 Name: Armeen Munir
 Degree: BS Artificial Intelligence
 University: UET Lahore
-Location: Pakistan 🇵🇰
+Location: Pakistan
 ```
 
-✨ Passionate about building intelligent solutions that combine **Artificial Intelligence**, **Machine Learning**, and **Modern Web Development**.
+Passionate about building intelligent solutions that combine **Artificial Intelligence**, **Machine Learning**, and **modern web development**.
 
-💜 I enjoy turning ideas into clean, interactive, and user-friendly applications while continuously improving my programming and problem-solving skills.
+I enjoy turning ideas into clean, interactive applications while continuously improving my programming and problem-solving skills.
 
 </td>
-
 <td width="50%" valign="top">
 
-### 🚀 Currently
-
-🧠 Learning Machine Learning
-
-📚 Exploring Neural Networks
-
-💻 Building Web Applications
-
-⚡ Improving DSA & Problem Solving
-
-🎯 Growing my AI Portfolio
+**Currently**
+- Learning Machine Learning
+- Exploring Neural Networks
+- Building web applications
+- Improving DSA & problem solving
+- Growing my AI portfolio
 
 </td>
 </tr>
 </table>
 
-<br/>
-
 <div align="center">
 
-### 💜 Interests
+<br/>
 
-<img src="https://img.shields.io/badge/Artificial%20Intelligence-7C3AED?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-7C3AED?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Machine%20Learning-4F46E5?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Neural%20Networks-8B5CF6?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Web%20Development-2563EB?style=for-the-badge"/>
@@ -99,74 +81,11 @@ Location: Pakistan 🇵🇰
 
 <br/>
 
-<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=2&section=header"/>
 
-
-<div align="center">
-
-## ✦ Beyond the Code ✦
-
-</div>
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-### 🌌 Vision
-
-I believe Artificial Intelligence is more than algorithms—it's about designing technology that solves real-world problems and creates meaningful experiences.
-
-Every project I build is another step toward becoming an AI engineer who values clean code, thoughtful design, and continuous learning.
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🚀 Currently Exploring
-
-🧠 Machine Learning Foundations
-
-⚡ Neural Networks
-
-💻 Full-Stack Web Development
-
-📊 Data Structures & Algorithms
-
-🤖 AI-powered Applications
-
-</td>
-
-</tr>
-</table>
-
-<br>
+<br/>
 
 <div align="center">
-
-### 🎯 Mission
-
-> **Transforming curiosity into intelligent solutions through continuous learning, creative thinking, and practical software engineering.**
-
-</div>
-
-<br>
-
-<div align="center">
-
-### 💜 Focus Areas
-
-<img src="https://img.shields.io/badge/Artificial%20Intelligence-7C3AED?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Machine%20Learning-4F46E5?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Neural%20Networks-8B5CF6?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Web%20Development-2563EB?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Problem%20Solving-06B6D4?style=for-the-badge"/>
-
-</div>
 
 ## Tech Stack
 
