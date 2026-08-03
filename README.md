@@ -9,7 +9,9 @@
 <img src="https://img.shields.io/badge/BS%20Artificial%20Intelligence-UET%20Lahore-4F46E5?style=for-the-badge&labelColor=0B0B1A&color=6D5AE6" alt="education"/>
 
 <br/><br/>
-
+<a href="https://novaai-hub.vercel.app">
+<img src="https://img.shields.io/badge/NovaAI%20Hub-Live%20Website-8B5CF6?style=for-the-badge&labelColor=0B0B1A&color=7C3AED" alt="NovaAI Hub"/>
+</a>
 <a href="https://armeenmunir32-blip.github.io/armeen-portfolio/">
 <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-4F8CFF?style=for-the-badge&labelColor=0B0B1A&color=4F46E5" alt="portfolio"/>
 </a>
@@ -117,12 +119,36 @@ I enjoy turning ideas into clean, interactive applications while continuously im
 
 <table width="100%">
 <tr>
+<td width="50%" align="top" style="padding:24px;">
+<div align="center">
+
+**Personal Portfolio Website**
 <td width="50%" valign="top" style="padding:24px;">
 
 <div align="center">
 
-**Personal Portfolio Website**
+**NovaAI Hub**
 
+</div>
+
+A modern AI platform to discover the latest AI tools, AI news, prompt library, tutorials, learning resources, side hustles, career guides, and much more—all in one place.
+
+<div align="center">
+
+<a href="https://novaai-hub.vercel.app">
+<img src="https://img.shields.io/badge/Live%20Website-Visit%20Now-7C3AED?style=for-the-badge&labelColor=0B0B1A&color=7C3AED"/>
+</a>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Next.js-0B0B1A?style=flat-square&logo=nextdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-0B0B1A?style=flat-square&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/TailwindCSS-0B0B1A?style=flat-square&logo=tailwindcss&logoColor=38BDF8"/>
+<img src="https://img.shields.io/badge/Vercel-0B0B1A?style=flat-square&logo=vercel&logoColor=white"/>
+
+</div>
+
+</td>
 </div>
 
 A full-stack portfolio, blog, and affiliate showcase built from scratch with HTML, CSS, and JavaScript — featuring a custom AI chatbot, an animated skills radar chart, and a dark, minimal UI.
